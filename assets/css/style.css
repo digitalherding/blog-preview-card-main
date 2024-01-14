@@ -84,6 +84,7 @@ p {
 
 .published-date {
   font-size: 0.9rem;
+  font-weight: var(--font-semi-bold);
 }
 
 .title-summary-container {
